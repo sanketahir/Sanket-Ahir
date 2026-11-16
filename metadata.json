@@ -1,0 +1,6 @@
+{
+  "name": "Ashadeep School App",
+  "description": "Comprehensive digital school portal for Ashadeep School with Student, Teacher, and Admin dashboards, attendance, homework, notices, results, timetable, fees, and learning resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
